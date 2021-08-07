@@ -9,6 +9,7 @@
     "lint": "next lint",
     "test": "jest",
     "test:watch": "yarn test --watch",
+    "test:coverage": "yarn test --coverage",
     "pre-commit": "lint-staged",
     "prepare": "husky install"
   },
